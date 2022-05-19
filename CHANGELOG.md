@@ -1,3 +1,10 @@
+## [2.2.5](https://github.com/ahaganDEV/mdb-reader/compare/v2.2.4...v2.2.5) (2022-05-19)
+
+
+### Bug Fixes
+
+* Package name ([e728cd0](https://github.com/ahaganDEV/mdb-reader/commit/e728cd05c4f1d57583db6b67fe8b56443fb73fc3))
+
 ## [2.2.4](https://github.com/ahaganDEV/mdb-reader/compare/v2.2.3...v2.2.4) (2022-05-19)
 
 
