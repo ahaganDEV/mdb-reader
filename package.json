@@ -69,5 +69,8 @@
         "test:esm:browser": "node --input-type=module -e \"import MDBReader from './lib/browser/index.js';\"",
         "lint": "eslint . --ext .ts",
         "semantic-release": "semantic-release"
+    },
+    "publishConfig": {
+        "access": "public"
     }
 }
