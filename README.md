@@ -9,6 +9,8 @@
 This is a forked version of the mdb-reader library.
 It mainly adds the missing parameters to the buffer functions.
 
+`npm install @ahaganDEV/mdb-reader`
+
 # MDB Reader
 
 JavaScript library to read data from Access databases.
