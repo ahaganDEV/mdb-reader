@@ -1,3 +1,17 @@
+## [2.2.4](https://github.com/ahaganDEV/mdb-reader/compare/v2.2.3...v2.2.4) (2022-05-19)
+
+
+### Bug Fixes
+
+* Made config published ([0b32509](https://github.com/ahaganDEV/mdb-reader/commit/0b325097b9c8e2a1a2e300cb13a44a2e21804bd8))
+
+## [2.2.3](https://github.com/ahaganDEV/mdb-reader/compare/v2.2.2...v2.2.3) (2022-05-19)
+
+
+### Bug Fixes
+
+* Fixed the readme ([4ead5a6](https://github.com/ahaganDEV/mdb-reader/commit/4ead5a6dce0ad6643d1975e7cdad42e7e991eb06))
+
 ## [2.2.2](https://github.com/andipaetzold/mdb-reader/compare/v2.2.1...v2.2.2) (2022-02-28)
 
 
